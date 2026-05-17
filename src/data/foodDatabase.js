@@ -1,0 +1,110 @@
+export const foodDatabase = [
+  {
+    id: "f1",
+    name: "Telur Ayam",
+    category: "protein",
+    serving: "1 butir (~60g)",
+    calories: 78,
+    protein: 6,
+    carbs: 0.6,
+    fat: 5,
+    price: 2000,
+    icon: "🥚"
+  },
+  {
+    id: "f2",
+    name: "Tempe Goreng/Bacem",
+    category: "protein",
+    serving: "2 potong sedang (50g)",
+    calories: 100,
+    protein: 10,
+    carbs: 4,
+    fat: 5,
+    price: 1500,
+    icon:"🧽"
+  },
+  {
+    id: "f3",
+    name: "Tahu Putih Kukus",
+    category: "protein",
+    serving: "1 kotak besar (100g)",
+    calories: 76,
+    protein: 8,
+    carbs: 1.9,
+    fat: 4.8,
+    price: 1000,
+    icon: "⬜"
+  },
+  {
+    id: "f4",
+    name: "Dada Ayam Fillet (Mentah)",
+    category: "protein",
+    serving: "100g",
+    calories: 150,
+    protein: 31,
+    carbs: 0,
+    fat: 3,
+    price: 5500,
+    icon: "🍗"
+  },
+  {
+    id: "f5",
+    name: "Nasi Putih",
+    category: "karbo",
+    serving: "1 porsi/centong (100g)",
+    calories: 130,
+    protein: 2.7,
+    carbs: 28,
+    fat: 0.3,
+    price: 1000,
+    icon: "🍚"
+  },
+  {
+    id: "f6",
+    name: "Oatmeal Instan",
+    category: "karbo",
+    serving: "4 sendok makan (40g)",
+    calories: 150,
+    protein: 5,
+    carbs: 27,
+    fat: 3,
+    price: 3000,
+    icon: "🥣"
+  },
+  {
+    id: "f7",
+    name: "Pisang Ambon",
+    category: "karbo",
+    serving: "1 buah sedang",
+    calories: 105,
+    protein: 1.3,
+    carbs: 27,
+    fat: 0.3,
+    price: 2500,
+    icon: "🍌"
+  },
+  {
+    id: "f8",
+    name: "Minyak Zaitun / Olive Oil",
+    category: "lemak",
+    serving: "1 sendok makan (13ml)",
+    calories: 119,
+    protein: 0,
+    carbs: 0,
+    fat: 13.5,
+    price: 4000,
+    icon: "🫒"
+  },
+  {
+    id: "f9",
+    name: "Kacang Tanah Sangrai",
+    category: "lemak",
+    serving: "1 genggam (30g)",
+    calories: 170,
+    protein: 7,
+    carbs: 6,
+    fat: 14,
+    price: 2000,
+    icon: "🥜"
+  }
+];
